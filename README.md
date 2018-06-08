@@ -14,11 +14,15 @@ Contributor level:
 Who can start a new project ? Should it be reserved to contributors ? What are the personal outcomes of project creation ? Does it grant more power over the project ? Why should someone wants to create a project ?
 
 There is a pool of product idea, contributors (> 0) can vote. Could be like the BFP baking system (but allowing multiple projects in progress).
-One contributor (> 1) create a project (from pool). There can't be multiple project for the same idea (it would divise resources).
+One contributor (> 1) create a project (from pool). There can't be multiple project for the same idea (it would divise resources). See domain creation process. Creator has to stake some tokens.
+
+## Project content
+
+Each project have a corresponding GitHub repository - idealy managed by the Colony's GitHub bot. All project documentation should reside here: changes can be approved via pull request.
 
 ## Project lifecycle
 
-Onboarding when a project start is easy, but who will maintain it after it's finished ? Wikipedia articles have to face the same issue. How do they manage it ?
+Onboarding when a project start is easy, but who will maintain it after it's finished ? Wikipedia articles have to face the same issue. How do they manage it ? Maint
 There should be colony-wide principles shared across projects to avoid having different direction/strategy that are dispute-prone.
 How these principles are created/updated ?
 
