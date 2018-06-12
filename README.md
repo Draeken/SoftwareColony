@@ -22,9 +22,9 @@ Each project have a corresponding GitHub repository - idealy managed by the Colo
 
 ## Project lifecycle
 
-Onboarding when a project start is easy, but who will maintain it after it's finished ? Wikipedia articles have to face the same issue. How do they manage it ? Maint
+Onboarding when a project start is easy, but who will maintain it after it's finished ? Wikipedia articles have to face the same issue. How do they manage it ?
 There should be colony-wide principles shared across projects to avoid having different direction/strategy that are dispute-prone.
-How these principles are created/updated ?
+How these principles are created/updated ? Specific repo.
 
 ## Resource allocation
 
@@ -38,3 +38,10 @@ What is the cost for changing asignee ?
 ## Decision
 
 How decision are made ? How disputes are resolved ?
+Contribution to decision-making should be awarded
+Assign people to study ?
+
+## Task lifecycle
+
+new task -> git branch
+evaluator approved -> git merge
