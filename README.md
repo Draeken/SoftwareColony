@@ -5,15 +5,16 @@ Web app to manage a decentralized autonomous organization about building softwar
 # Organization
 
 Contributor level:
- 1. small
- 2. medium
- 3. long
+
+1.  small
+2.  medium
+3.  long
 
 ## Project creation
 
 Who can start a new project ? Should it be reserved to contributors ? What are the personal outcomes of project creation ? Does it grant more power over the project ? Why should someone wants to create a project ?
 
-There is a pool of product idea, contributors (> 0) can vote. Could be like the BFP baking system (but allowing multiple projects in progress).
+There is a pool of product idea, contributors (> 0) can vote. Could be like the BFP baking system (but allowing multiple projects in progress). Pools for idea and started project could be merged. Idea are powered by one person - should be associated with an adress. And there is an Q&A
 One contributor (> 1) create a project (from pool). There can't be multiple project for the same idea (it would divise resources). See domain creation process. Creator has to stake some tokens.
 
 ## Project content
